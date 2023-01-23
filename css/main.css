@@ -1,0 +1,22 @@
+@import'./reset.css';
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400;0,500;1,400;1,500&family=Fuzzy+Bubbles:wght@400;700&family=Montserrat:wght@500;600&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Source+Code+Pro&display=swap');
+
+:root{
+    --container-width:1200px;
+    --container-paddig: 15px
+}
+.body{
+font-family: 'poppins', sans-serif;
+    color: 0F1F1C;
+    background-color: E5E5E5;
+}
+
+.block{
+    height: 200px;
+    background-color: ;
+}
+.container{
+    width: var(--container-width);
+    padding: var(--container-paddig);
+    margin: 0 auto;
+}
